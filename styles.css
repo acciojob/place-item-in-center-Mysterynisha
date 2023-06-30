@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.box{
+	align-item:center;
+	justify-content:center;
+	 display: flex;
+}
